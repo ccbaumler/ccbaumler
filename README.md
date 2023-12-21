@@ -30,11 +30,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 
 My latest open-source contributions:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/dib-lab/dib_rotation/pull/74) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-2. 🔒 Closed issue [#71](https://github.com/dib-lab/dib_rotation/issues/71) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-3. 🎉 Merged PR [#72](https://github.com/dib-lab/dib_rotation/pull/72) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-4. 🎉 Merged PR [#69](https://github.com/dib-lab/dib_rotation/pull/69) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-5. 🗣 Commented on [#54](https://github.com/dib-lab/dib_rotation/issues/54#issuecomment-1863602282) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+1. ❗ Opened issue [#1](https://github.com/ccbaumler/ccbaumler/issues/1) in [ccbaumler/ccbaumler](https://github.com/ccbaumler/ccbaumler)
+2. 🎉 Merged PR [#74](https://github.com/dib-lab/dib_rotation/pull/74) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+3. 🔒 Closed issue [#71](https://github.com/dib-lab/dib_rotation/issues/71) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+4. 🎉 Merged PR [#72](https://github.com/dib-lab/dib_rotation/pull/72) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+5. 🎉 Merged PR [#69](https://github.com/dib-lab/dib_rotation/pull/69) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
