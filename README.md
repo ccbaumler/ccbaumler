@@ -18,11 +18,6 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 
 <!--START_SECTION:activity-->
 
-
-
-
-<!--END_SECTION:activity-->
-
 <a href="https://github.com/ccbaumler">
   <img height="200" width=400 align="left" alt="Colton's dynamically generated GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ccbaumler&show_icons=true&title_color=434d58&icon_color=fa8072&ring_color=ba55d3"/>
 </a>
