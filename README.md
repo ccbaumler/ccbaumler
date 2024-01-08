@@ -29,6 +29,7 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 <h3 align="center">Github Statistics</h3>
 
 My latest open-source contributions:
+
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/ccbaumler/ccbaumler/issues/1) in [ccbaumler/ccbaumler](https://github.com/ccbaumler/ccbaumler)
 2. 🎉 Merged PR [#74](https://github.com/dib-lab/dib_rotation/pull/74) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
