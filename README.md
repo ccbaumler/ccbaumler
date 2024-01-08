@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/dib-lab/portable-snakemake-workflows/issues/5) in [dib-lab/portable-snakemake-workflows](https://github.com/dib-lab/portable-snakemake-workflows)
-2. ❗ Opened issue [#1](https://github.com/ccbaumler/ccbaumler/issues/1) in [ccbaumler/ccbaumler](https://github.com/ccbaumler/ccbaumler)
-3. 🎉 Merged PR [#74](https://github.com/dib-lab/dib_rotation/pull/74) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-4. 🔒 Closed issue [#71](https://github.com/dib-lab/dib_rotation/issues/71) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-5. 🎉 Merged PR [#72](https://github.com/dib-lab/dib_rotation/pull/72) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+1. ❗ Opened issue [#512](https://github.com/spacegraphcats/spacegraphcats/issues/512) in [spacegraphcats/spacegraphcats](https://github.com/spacegraphcats/spacegraphcats)
+2. ❗ Opened issue [#5](https://github.com/dib-lab/portable-snakemake-workflows/issues/5) in [dib-lab/portable-snakemake-workflows](https://github.com/dib-lab/portable-snakemake-workflows)
+3. ❗ Opened issue [#1](https://github.com/ccbaumler/ccbaumler/issues/1) in [ccbaumler/ccbaumler](https://github.com/ccbaumler/ccbaumler)
+4. 🎉 Merged PR [#74](https://github.com/dib-lab/dib_rotation/pull/74) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+5. 🔒 Closed issue [#71](https://github.com/dib-lab/dib_rotation/issues/71) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
