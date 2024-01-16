@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2921](https://github.com/sourmash-bio/sourmash/pull/2921#issuecomment-1892556316) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-2. 🗣 Commented on [#512](https://github.com/spacegraphcats/spacegraphcats/issues/512#issuecomment-1887541900) in [spacegraphcats/spacegraphcats](https://github.com/spacegraphcats/spacegraphcats)
-3. 🗣 Commented on [#513](https://github.com/spacegraphcats/spacegraphcats/pull/513#issuecomment-1885806741) in [spacegraphcats/spacegraphcats](https://github.com/spacegraphcats/spacegraphcats)
-4. 💪 Opened PR [#513](https://github.com/spacegraphcats/spacegraphcats/pull/513) in [spacegraphcats/spacegraphcats](https://github.com/spacegraphcats/spacegraphcats)
-5. ❗ Opened issue [#6](https://github.com/dib-lab/portable-snakemake-workflows/issues/6) in [dib-lab/portable-snakemake-workflows](https://github.com/dib-lab/portable-snakemake-workflows)
+1. 🗣 Commented on [#2928](https://github.com/sourmash-bio/sourmash/pull/2928#issuecomment-1893904409) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. 🗣 Commented on [#2921](https://github.com/sourmash-bio/sourmash/pull/2921#issuecomment-1892556316) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+3. 🗣 Commented on [#512](https://github.com/spacegraphcats/spacegraphcats/issues/512#issuecomment-1887541900) in [spacegraphcats/spacegraphcats](https://github.com/spacegraphcats/spacegraphcats)
+4. 🗣 Commented on [#513](https://github.com/spacegraphcats/spacegraphcats/pull/513#issuecomment-1885806741) in [spacegraphcats/spacegraphcats](https://github.com/spacegraphcats/spacegraphcats)
+5. 💪 Opened PR [#513](https://github.com/spacegraphcats/spacegraphcats/pull/513) in [spacegraphcats/spacegraphcats](https://github.com/spacegraphcats/spacegraphcats)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
