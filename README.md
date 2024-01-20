@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/dib-lab/farm-notes/issues/65#issuecomment-1900663682) in [dib-lab/farm-notes](https://github.com/dib-lab/farm-notes)
-2. ❗ Opened issue [#7](https://github.com/dib-lab/portable-snakemake-workflows/issues/7) in [dib-lab/portable-snakemake-workflows](https://github.com/dib-lab/portable-snakemake-workflows)
-3. 🗣 Commented on [#2930](https://github.com/sourmash-bio/sourmash/pull/2930#issuecomment-1894792741) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-4. 💪 Opened PR [#2930](https://github.com/sourmash-bio/sourmash/pull/2930) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-5. ❗ Opened issue [#2929](https://github.com/sourmash-bio/sourmash/issues/2929) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+1. 🗣 Commented on [#2928](https://github.com/sourmash-bio/sourmash/pull/2928#issuecomment-1902171451) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. 🗣 Commented on [#65](https://github.com/dib-lab/farm-notes/issues/65#issuecomment-1900663682) in [dib-lab/farm-notes](https://github.com/dib-lab/farm-notes)
+3. ❗ Opened issue [#7](https://github.com/dib-lab/portable-snakemake-workflows/issues/7) in [dib-lab/portable-snakemake-workflows](https://github.com/dib-lab/portable-snakemake-workflows)
+4. 🗣 Commented on [#2930](https://github.com/sourmash-bio/sourmash/pull/2930#issuecomment-1894792741) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+5. 💪 Opened PR [#2930](https://github.com/sourmash-bio/sourmash/pull/2930) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
