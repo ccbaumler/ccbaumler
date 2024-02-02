@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/dib-lab/dib_rotation/pull/76) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-2. 🗣 Commented on [#2954](https://github.com/sourmash-bio/sourmash/pull/2954#issuecomment-1915613688) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-3. ❗ Opened issue [#8](https://github.com/dib-lab/portable-snakemake-workflows/issues/8) in [dib-lab/portable-snakemake-workflows](https://github.com/dib-lab/portable-snakemake-workflows)
-4. 🗣 Commented on [#2928](https://github.com/sourmash-bio/sourmash/pull/2928#issuecomment-1902171451) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-5. 🗣 Commented on [#65](https://github.com/dib-lab/farm-notes/issues/65#issuecomment-1900663682) in [dib-lab/farm-notes](https://github.com/dib-lab/farm-notes)
+1. 🗣 Commented on [#70](https://github.com/dib-lab/dib_rotation/issues/70#issuecomment-1924683571) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+2. 🔒 Closed issue [#70](https://github.com/dib-lab/dib_rotation/issues/70) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+3. 🎉 Merged PR [#76](https://github.com/dib-lab/dib_rotation/pull/76) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+4. 🗣 Commented on [#2954](https://github.com/sourmash-bio/sourmash/pull/2954#issuecomment-1915613688) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+5. ❗ Opened issue [#8](https://github.com/dib-lab/portable-snakemake-workflows/issues/8) in [dib-lab/portable-snakemake-workflows](https://github.com/dib-lab/portable-snakemake-workflows)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
