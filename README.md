@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/ctb/2022-database-covers/pull/5) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
-2. 💪 Opened PR [#80](https://github.com/dib-lab/dib_rotation/pull/80) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-3. 💪 Opened PR [#79](https://github.com/dib-lab/dib_rotation/pull/79) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-4. 💪 Opened PR [#77](https://github.com/dib-lab/dib_rotation/pull/77) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-5. 🗣 Commented on [#70](https://github.com/dib-lab/dib_rotation/issues/70#issuecomment-1924683571) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+1. ❗ Opened issue [#1](https://github.com/ccbaumler/lab-notes-template/issues/1) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+2. 💪 Opened PR [#5](https://github.com/ctb/2022-database-covers/pull/5) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
+3. 💪 Opened PR [#80](https://github.com/dib-lab/dib_rotation/pull/80) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+4. 💪 Opened PR [#79](https://github.com/dib-lab/dib_rotation/pull/79) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+5. 💪 Opened PR [#77](https://github.com/dib-lab/dib_rotation/pull/77) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
