@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/ctb/2022-database-covers/issues/8#issuecomment-1941850411) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
-2. 🗣 Commented on [#8](https://github.com/ctb/2022-database-covers/issues/8#issuecomment-1941830954) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
-3. 🔒 Closed issue [#64](https://github.com/dib-lab/dib_rotation/issues/64) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-4. 🎉 Merged PR [#77](https://github.com/dib-lab/dib_rotation/pull/77) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
-5. ❗ Opened issue [#1](https://github.com/ccbaumler/lab-notes-template/issues/1) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+1. ❗ Opened issue [#3006](https://github.com/sourmash-bio/sourmash/issues/3006) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. 🗣 Commented on [#8](https://github.com/ctb/2022-database-covers/issues/8#issuecomment-1941850411) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
+3. 🗣 Commented on [#8](https://github.com/ctb/2022-database-covers/issues/8#issuecomment-1941830954) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
+4. 🔒 Closed issue [#64](https://github.com/dib-lab/dib_rotation/issues/64) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
+5. 🎉 Merged PR [#77](https://github.com/dib-lab/dib_rotation/pull/77) in [dib-lab/dib_rotation](https://github.com/dib-lab/dib_rotation)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
