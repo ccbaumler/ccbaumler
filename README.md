@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3006](https://github.com/sourmash-bio/sourmash/issues/3006#issuecomment-1949513363) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-2. 🗣 Commented on [#3006](https://github.com/sourmash-bio/sourmash/issues/3006#issuecomment-1949457219) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-3. ❗ Opened issue [#2](https://github.com/ccbaumler/lab-notes-template/issues/2) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
-4. ❗ Opened issue [#3006](https://github.com/sourmash-bio/sourmash/issues/3006) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-5. 🗣 Commented on [#8](https://github.com/ctb/2022-database-covers/issues/8#issuecomment-1941850411) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
+1. 🗣 Commented on [#3006](https://github.com/sourmash-bio/sourmash/issues/3006#issuecomment-1949534627) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. 🗣 Commented on [#3006](https://github.com/sourmash-bio/sourmash/issues/3006#issuecomment-1949513363) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+3. 🗣 Commented on [#3006](https://github.com/sourmash-bio/sourmash/issues/3006#issuecomment-1949457219) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+4. ❗ Opened issue [#2](https://github.com/ccbaumler/lab-notes-template/issues/2) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+5. ❗ Opened issue [#3006](https://github.com/sourmash-bio/sourmash/issues/3006) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
