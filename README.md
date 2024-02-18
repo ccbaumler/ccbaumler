@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/ccbaumler/lab-notes-template/pull/5#issuecomment-1950968031) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
-2. 💪 Opened PR [#5](https://github.com/ccbaumler/lab-notes-template/pull/5) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
-3. 🗣 Commented on [#3006](https://github.com/sourmash-bio/sourmash/issues/3006#issuecomment-1950586716) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-4. ❗ Opened issue [#4](https://github.com/ccbaumler/lab-notes-template/issues/4) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
-5. 🗣 Commented on [#3006](https://github.com/sourmash-bio/sourmash/issues/3006#issuecomment-1950285822) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+1. 🗣 Commented on [#7](https://github.com/ccbaumler/lab-notes-template/pull/7#issuecomment-1950972063) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+2. 💪 Opened PR [#7](https://github.com/ccbaumler/lab-notes-template/pull/7) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+3. ❌ Closed PR [#6](https://github.com/ccbaumler/lab-notes-template/pull/6) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+4. 💪 Opened PR [#6](https://github.com/ccbaumler/lab-notes-template/pull/6) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+5. 🎉 Merged PR [#5](https://github.com/ccbaumler/lab-notes-template/pull/5) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
