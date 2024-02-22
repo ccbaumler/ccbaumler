@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/ctb/2022-database-covers/issues/9#issuecomment-1957980187) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
-2. 🗣 Commented on [#9](https://github.com/ctb/2022-database-covers/issues/9#issuecomment-1954455606) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
-3. ❗ Opened issue [#9](https://github.com/ccbaumler/lab-notes-template/issues/9) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
-4. 🔒 Closed issue [#3](https://github.com/ccbaumler/lab-notes-template/issues/3) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
-5. 🔒 Closed issue [#4](https://github.com/ccbaumler/lab-notes-template/issues/4) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+1. 💪 Opened PR [#10](https://github.com/ccbaumler/lab-notes-template/pull/10) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+2. 🗣 Commented on [#9](https://github.com/ctb/2022-database-covers/issues/9#issuecomment-1957980187) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
+3. 🗣 Commented on [#9](https://github.com/ctb/2022-database-covers/issues/9#issuecomment-1954455606) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
+4. ❗ Opened issue [#9](https://github.com/ccbaumler/lab-notes-template/issues/9) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+5. 🔒 Closed issue [#3](https://github.com/ccbaumler/lab-notes-template/issues/3) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
