@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/ccbaumler/lab-notes-template/pull/10) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
-2. 🗣 Commented on [#10](https://github.com/ccbaumler/lab-notes-template/pull/10#issuecomment-1959948678) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
-3. 💪 Opened PR [#10](https://github.com/ccbaumler/lab-notes-template/pull/10) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
-4. 🗣 Commented on [#9](https://github.com/ctb/2022-database-covers/issues/9#issuecomment-1957980187) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
-5. 🗣 Commented on [#9](https://github.com/ctb/2022-database-covers/issues/9#issuecomment-1954455606) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
+1. 💪 Opened PR [#10](https://github.com/ctb/2022-database-covers/pull/10) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
+2. 🎉 Merged PR [#10](https://github.com/ccbaumler/lab-notes-template/pull/10) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+3. 🗣 Commented on [#10](https://github.com/ccbaumler/lab-notes-template/pull/10#issuecomment-1959948678) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+4. 💪 Opened PR [#10](https://github.com/ccbaumler/lab-notes-template/pull/10) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+5. 🗣 Commented on [#9](https://github.com/ctb/2022-database-covers/issues/9#issuecomment-1957980187) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
