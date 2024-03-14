@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#250](https://github.com/mitchelloharawild/vitae/pull/250) in [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)
-2. 🗣 Commented on [#12](https://github.com/dib-lab/2022-database-covers/pull/12#issuecomment-1970620926) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-3. ❗ Opened issue [#11](https://github.com/ctb/2022-database-covers/issues/11) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
-4. 💪 Opened PR [#10](https://github.com/ctb/2022-database-covers/pull/10) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
-5. 🎉 Merged PR [#10](https://github.com/ccbaumler/lab-notes-template/pull/10) in [ccbaumler/lab-notes-template](https://github.com/ccbaumler/lab-notes-template)
+1. 🚀 Published release [v0.0.0-alpha](https://github.com/ccbaumler/centralizing-lit/releases/tag/v0.0.0-alpha) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+2. 💪 Opened PR [#250](https://github.com/mitchelloharawild/vitae/pull/250) in [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)
+3. 🗣 Commented on [#12](https://github.com/dib-lab/2022-database-covers/pull/12#issuecomment-1970620926) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+4. ❗ Opened issue [#11](https://github.com/ctb/2022-database-covers/issues/11) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
+5. 💪 Opened PR [#10](https://github.com/ctb/2022-database-covers/pull/10) in [ctb/2022-database-covers](https://github.com/ctb/2022-database-covers)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
