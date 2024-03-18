@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [test](https://github.com/ccbaumler/sourmash/releases/tag/v4.4.0) in [ccbaumler/sourmash](https://github.com/ccbaumler/sourmash)
-2. 💪 Opened PR [#1](https://github.com/ccbaumler/centralizing-lit/pull/1) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
-3. 🚀 Published release [v0.0.0-alpha](https://github.com/ccbaumler/centralizing-lit/releases/tag/v0.0.0-alpha) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
-4. 💪 Opened PR [#250](https://github.com/mitchelloharawild/vitae/pull/250) in [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)
-5. 🗣 Commented on [#12](https://github.com/dib-lab/2022-database-covers/pull/12#issuecomment-1970620926) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+1. ❗ Opened issue [#3080](https://github.com/sourmash-bio/sourmash/issues/3080) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. 🚀 Published release [test](https://github.com/ccbaumler/sourmash/releases/tag/v4.4.0) in [ccbaumler/sourmash](https://github.com/ccbaumler/sourmash)
+3. 💪 Opened PR [#1](https://github.com/ccbaumler/centralizing-lit/pull/1) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+4. 🚀 Published release [v0.0.0-alpha](https://github.com/ccbaumler/centralizing-lit/releases/tag/v0.0.0-alpha) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+5. 💪 Opened PR [#250](https://github.com/mitchelloharawild/vitae/pull/250) in [mitchelloharawild/vitae](https://github.com/mitchelloharawild/vitae)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
