@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3080](https://github.com/sourmash-bio/sourmash/issues/3080#issuecomment-2004206363) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-2. 🗣 Commented on [#3080](https://github.com/sourmash-bio/sourmash/issues/3080#issuecomment-2004175522) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-3. ❗ Opened issue [#3080](https://github.com/sourmash-bio/sourmash/issues/3080) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-4. 🚀 Published release [test](https://github.com/ccbaumler/sourmash/releases/tag/v4.4.0) in [ccbaumler/sourmash](https://github.com/ccbaumler/sourmash)
-5. 💪 Opened PR [#1](https://github.com/ccbaumler/centralizing-lit/pull/1) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+1. ❗ Opened issue [#2](https://github.com/ccbaumler/centralizing-lit/issues/2) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+2. 🗣 Commented on [#3080](https://github.com/sourmash-bio/sourmash/issues/3080#issuecomment-2004206363) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+3. 🗣 Commented on [#3080](https://github.com/sourmash-bio/sourmash/issues/3080#issuecomment-2004175522) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+4. ❗ Opened issue [#3080](https://github.com/sourmash-bio/sourmash/issues/3080) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+5. 🚀 Published release [test](https://github.com/ccbaumler/sourmash/releases/tag/v4.4.0) in [ccbaumler/sourmash](https://github.com/ccbaumler/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
