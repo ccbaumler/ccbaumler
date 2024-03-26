@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ccbaumler/analyzing-lit/issues/1#issuecomment-2020456758) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
-2. ❗ Opened issue [#1](https://github.com/ccbaumler/analyzing-lit/issues/1) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
-3. 🎉 Merged PR [#1](https://github.com/ccbaumler/managing-lit/pull/1) in [ccbaumler/managing-lit](https://github.com/ccbaumler/managing-lit)
-4. 💪 Opened PR [#1](https://github.com/ccbaumler/managing-lit/pull/1) in [ccbaumler/managing-lit](https://github.com/ccbaumler/managing-lit)
-5. 🎉 Merged PR [#4](https://github.com/ccbaumler/centralizing-lit/pull/4) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+1. 🎉 Merged PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+2. 🔒 Closed issue [#1](https://github.com/ccbaumler/analyzing-lit/issues/1) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+3. 💪 Opened PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+4. 🗣 Commented on [#1](https://github.com/ccbaumler/analyzing-lit/issues/1#issuecomment-2020456758) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+5. ❗ Opened issue [#1](https://github.com/ccbaumler/analyzing-lit/issues/1) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
