@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/dib-lab/2022-database-covers/pull/13) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-2. 🎉 Merged PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
-3. 🔒 Closed issue [#1](https://github.com/ccbaumler/analyzing-lit/issues/1) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
-4. 💪 Opened PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
-5. 🗣 Commented on [#1](https://github.com/ccbaumler/analyzing-lit/issues/1#issuecomment-2020456758) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+1. ❌ Closed PR [#13](https://github.com/dib-lab/2022-database-covers/pull/13) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+2. 💪 Opened PR [#13](https://github.com/dib-lab/2022-database-covers/pull/13) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+3. 🎉 Merged PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+4. 🔒 Closed issue [#1](https://github.com/ccbaumler/analyzing-lit/issues/1) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+5. 💪 Opened PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
