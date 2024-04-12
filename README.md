@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/ccbaumler/CV/issues/1) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
-2. ❌ Closed PR [#13](https://github.com/dib-lab/2022-database-covers/pull/13) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-3. 💪 Opened PR [#13](https://github.com/dib-lab/2022-database-covers/pull/13) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-4. 🎉 Merged PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
-5. 🔒 Closed issue [#1](https://github.com/ccbaumler/analyzing-lit/issues/1) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+1. ❗ Opened issue [#1](https://github.com/ccbaumler/2024-database-create/issues/1) in [ccbaumler/2024-database-create](https://github.com/ccbaumler/2024-database-create)
+2. ❗ Opened issue [#1](https://github.com/ccbaumler/CV/issues/1) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
+3. ❌ Closed PR [#13](https://github.com/dib-lab/2022-database-covers/pull/13) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+4. 💪 Opened PR [#13](https://github.com/dib-lab/2022-database-covers/pull/13) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+5. 🎉 Merged PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
