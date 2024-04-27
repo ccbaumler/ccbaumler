@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ccbaumler/2022-database-covers/pull/1) in [ccbaumler/2022-database-covers](https://github.com/ccbaumler/2022-database-covers)
-2. 🗣 Commented on [#1](https://github.com/ccbaumler/2022-database-covers/pull/1#issuecomment-2078233715) in [ccbaumler/2022-database-covers](https://github.com/ccbaumler/2022-database-covers)
-3. 🗣 Commented on [#1](https://github.com/ccbaumler/2022-database-covers/pull/1#issuecomment-2053745028) in [ccbaumler/2022-database-covers](https://github.com/ccbaumler/2022-database-covers)
-4. ❗ Opened issue [#1](https://github.com/ccbaumler/2024-database-create/issues/1) in [ccbaumler/2024-database-create](https://github.com/ccbaumler/2024-database-create)
-5. ❗ Opened issue [#1](https://github.com/ccbaumler/CV/issues/1) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
+1. 🎉 Merged PR [#10](https://github.com/dib-lab/2022-database-covers/pull/10) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+2. 🎉 Merged PR [#1](https://github.com/ccbaumler/2022-database-covers/pull/1) in [ccbaumler/2022-database-covers](https://github.com/ccbaumler/2022-database-covers)
+3. 🗣 Commented on [#1](https://github.com/ccbaumler/2022-database-covers/pull/1#issuecomment-2078233715) in [ccbaumler/2022-database-covers](https://github.com/ccbaumler/2022-database-covers)
+4. 🗣 Commented on [#1](https://github.com/ccbaumler/2022-database-covers/pull/1#issuecomment-2053745028) in [ccbaumler/2022-database-covers](https://github.com/ccbaumler/2022-database-covers)
+5. ❗ Opened issue [#1](https://github.com/ccbaumler/2024-database-create/issues/1) in [ccbaumler/2024-database-create](https://github.com/ccbaumler/2024-database-create)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
