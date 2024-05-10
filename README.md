@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/25) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-2. ❗ Opened issue [#1](https://github.com/ccbaumler/analyzing-lit/issues/1) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
-3. ❗ Opened issue [#13](https://github.com/bluegenes/sourmash_plugin_directsketch/issues/13) in [bluegenes/sourmash_plugin_directsketch](https://github.com/bluegenes/sourmash_plugin_directsketch)
-4. 💪 Opened PR [#69](https://github.com/dib-lab/farm-notes/pull/69) in [dib-lab/farm-notes](https://github.com/dib-lab/farm-notes)
-5. 🎉 Merged PR [#10](https://github.com/dib-lab/2022-database-covers/pull/10) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+1. 🗣 Commented on [#26](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/26#issuecomment-2105254125) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+2. 🗣 Commented on [#25](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/25#issuecomment-2105251916) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+3. ❗ Opened issue [#25](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/25) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+4. ❗ Opened issue [#1](https://github.com/ccbaumler/analyzing-lit/issues/1) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+5. ❗ Opened issue [#13](https://github.com/bluegenes/sourmash_plugin_directsketch/issues/13) in [bluegenes/sourmash_plugin_directsketch](https://github.com/bluegenes/sourmash_plugin_directsketch)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
