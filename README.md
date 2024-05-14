@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/dib-lab/2022-database-covers/pull/18) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-2. 🎉 Merged PR [#16](https://github.com/dib-lab/2022-database-covers/pull/16) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-3. 🎉 Merged PR [#17](https://github.com/dib-lab/2022-database-covers/pull/17) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-4. 💪 Opened PR [#17](https://github.com/dib-lab/2022-database-covers/pull/17) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-5. 🗣 Commented on [#26](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/26#issuecomment-2105254125) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+1. 🎉 Merged PR [#18](https://github.com/dib-lab/2022-database-covers/pull/18) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+2. 💪 Opened PR [#18](https://github.com/dib-lab/2022-database-covers/pull/18) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+3. 🎉 Merged PR [#16](https://github.com/dib-lab/2022-database-covers/pull/16) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+4. 🎉 Merged PR [#17](https://github.com/dib-lab/2022-database-covers/pull/17) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+5. 💪 Opened PR [#17](https://github.com/dib-lab/2022-database-covers/pull/17) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
