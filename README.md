@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/2#issuecomment-2112785385) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-2. 🎉 Merged PR [#18](https://github.com/dib-lab/2022-database-covers/pull/18) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-3. 💪 Opened PR [#18](https://github.com/dib-lab/2022-database-covers/pull/18) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-4. 🎉 Merged PR [#16](https://github.com/dib-lab/2022-database-covers/pull/16) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
-5. 🎉 Merged PR [#17](https://github.com/dib-lab/2022-database-covers/pull/17) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+1. 💪 Opened PR [#33](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/33) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+2. ❗ Opened issue [#32](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/32) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+3. 🗣 Commented on [#2](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/2#issuecomment-2112785385) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+4. 🎉 Merged PR [#18](https://github.com/dib-lab/2022-database-covers/pull/18) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
+5. 💪 Opened PR [#18](https://github.com/dib-lab/2022-database-covers/pull/18) in [dib-lab/2022-database-covers](https://github.com/dib-lab/2022-database-covers)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
