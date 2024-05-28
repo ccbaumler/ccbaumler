@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/40#issuecomment-2127772455) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-2. 🗣 Commented on [#33](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/33#issuecomment-2122375399) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-3. 💪 Opened PR [#33](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/33) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-4. ❗ Opened issue [#32](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/32) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-5. 🗣 Commented on [#2](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/2#issuecomment-2112785385) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+1. 🎉 Merged PR [#6](https://github.com/ccbaumler/centralizing-lit/pull/6) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+2. 💪 Opened PR [#6](https://github.com/ccbaumler/centralizing-lit/pull/6) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+3. 🎉 Merged PR [#5](https://github.com/ccbaumler/centralizing-lit/pull/5) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+4. 💪 Opened PR [#5](https://github.com/ccbaumler/centralizing-lit/pull/5) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+5. 🗣 Commented on [#40](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/40#issuecomment-2127772455) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
