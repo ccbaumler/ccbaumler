@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ccbaumler/managing-lit/pull/3) in [ccbaumler/managing-lit](https://github.com/ccbaumler/managing-lit)
-2. 💪 Opened PR [#3](https://github.com/ccbaumler/managing-lit/pull/3) in [ccbaumler/managing-lit](https://github.com/ccbaumler/managing-lit)
-3. 🎉 Merged PR [#2](https://github.com/ccbaumler/managing-lit/pull/2) in [ccbaumler/managing-lit](https://github.com/ccbaumler/managing-lit)
-4. 💪 Opened PR [#2](https://github.com/ccbaumler/managing-lit/pull/2) in [ccbaumler/managing-lit](https://github.com/ccbaumler/managing-lit)
-5. 🎉 Merged PR [#6](https://github.com/ccbaumler/centralizing-lit/pull/6) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+1. 🎉 Merged PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+2. 💪 Opened PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+3. 🎉 Merged PR [#3](https://github.com/ccbaumler/managing-lit/pull/3) in [ccbaumler/managing-lit](https://github.com/ccbaumler/managing-lit)
+4. 💪 Opened PR [#3](https://github.com/ccbaumler/managing-lit/pull/3) in [ccbaumler/managing-lit](https://github.com/ccbaumler/managing-lit)
+5. 🎉 Merged PR [#2](https://github.com/ccbaumler/managing-lit/pull/2) in [ccbaumler/managing-lit](https://github.com/ccbaumler/managing-lit)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
