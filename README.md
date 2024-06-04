@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/13#issuecomment-2140301678) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-2. 🗣 Commented on [#13](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/13#issuecomment-2140266072) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-3. ❗ Opened issue [#13](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/13) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-4. 🎉 Merged PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
-5. 💪 Opened PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
+1. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2146297147) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. 🗣 Commented on [#13](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/13#issuecomment-2140301678) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+3. 🗣 Commented on [#13](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/13#issuecomment-2140266072) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+4. ❗ Opened issue [#13](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/13) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+5. 🎉 Merged PR [#2](https://github.com/ccbaumler/analyzing-lit/pull/2) in [ccbaumler/analyzing-lit](https://github.com/ccbaumler/analyzing-lit)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
