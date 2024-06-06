@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3191](https://github.com/sourmash-bio/sourmash/issues/3191) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-2. 🗣 Commented on [#3190](https://github.com/sourmash-bio/sourmash/issues/3190#issuecomment-2150600914) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-3. ❗ Opened issue [#3190](https://github.com/sourmash-bio/sourmash/issues/3190) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-4. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2146297147) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-5. 🗣 Commented on [#13](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/13#issuecomment-2140301678) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+1. 🗣 Commented on [#3191](https://github.com/sourmash-bio/sourmash/issues/3191#issuecomment-2153157109) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. ❗ Opened issue [#3191](https://github.com/sourmash-bio/sourmash/issues/3191) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+3. 🗣 Commented on [#3190](https://github.com/sourmash-bio/sourmash/issues/3190#issuecomment-2150600914) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+4. ❗ Opened issue [#3190](https://github.com/sourmash-bio/sourmash/issues/3190) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+5. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2146297147) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
