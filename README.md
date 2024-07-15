@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-2. ❗ Opened issue [#7](https://github.com/sourmash-bio/database-releases/issues/7) in [sourmash-bio/database-releases](https://github.com/sourmash-bio/database-releases)
-3. 💪 Opened PR [#6](https://github.com/sourmash-bio/database-releases/pull/6) in [sourmash-bio/database-releases](https://github.com/sourmash-bio/database-releases)
-4. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2156098326) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-5. 🗣 Commented on [#3191](https://github.com/sourmash-bio/sourmash/issues/3191#issuecomment-2156096453) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+1. 🗣 Commented on [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68#issuecomment-2227601945) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+2. 🔒 Closed issue [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+3. ❗ Opened issue [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+4. ❗ Opened issue [#7](https://github.com/sourmash-bio/database-releases/issues/7) in [sourmash-bio/database-releases](https://github.com/sourmash-bio/database-releases)
+5. 💪 Opened PR [#6](https://github.com/sourmash-bio/database-releases/pull/6) in [sourmash-bio/database-releases](https://github.com/sourmash-bio/database-releases)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
