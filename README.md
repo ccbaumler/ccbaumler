@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68#issuecomment-2227601945) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-2. 🔒 Closed issue [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-3. ❗ Opened issue [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-4. ❗ Opened issue [#7](https://github.com/sourmash-bio/database-releases/issues/7) in [sourmash-bio/database-releases](https://github.com/sourmash-bio/database-releases)
-5. 💪 Opened PR [#6](https://github.com/sourmash-bio/database-releases/pull/6) in [sourmash-bio/database-releases](https://github.com/sourmash-bio/database-releases)
+1. 🗣 Commented on [#33](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/33#issuecomment-2229282391) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+2. 🗣 Commented on [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68#issuecomment-2227601945) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+3. 🔒 Closed issue [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+4. ❗ Opened issue [#68](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/68) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+5. ❗ Opened issue [#7](https://github.com/sourmash-bio/database-releases/issues/7) in [sourmash-bio/database-releases](https://github.com/sourmash-bio/database-releases)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
