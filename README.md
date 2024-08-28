@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3246](https://github.com/sourmash-bio/sourmash/issues/3246#issuecomment-2301200807) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-2. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2289322131) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-3. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2278403217) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-4. 🗣 Commented on [#70](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/70#issuecomment-2240891868) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-5. 🗣 Commented on [#70](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/70#issuecomment-2237556441) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+1. 🚀 Published release [Zenodo DOI Badge](https://github.com/ccbaumler/academic-writing-and-grfp-applications/releases/tag/v1.0.1) in [ccbaumler/academic-writing-and-grfp-applications](https://github.com/ccbaumler/academic-writing-and-grfp-applications)
+2. 🚀 Published release [Initial release!!!](https://github.com/ccbaumler/academic-writing-and-grfp-applications/releases/tag/v1.0.0) in [ccbaumler/academic-writing-and-grfp-applications](https://github.com/ccbaumler/academic-writing-and-grfp-applications)
+3. 🗣 Commented on [#3246](https://github.com/sourmash-bio/sourmash/issues/3246#issuecomment-2301200807) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+4. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2289322131) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+5. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2278403217) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
