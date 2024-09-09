@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/92#issuecomment-2335016249) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-2. 🗣 Commented on [#65](https://github.com/dib-lab/farm-notes/issues/65#issuecomment-2334728120) in [dib-lab/farm-notes](https://github.com/dib-lab/farm-notes)
-3. 🚀 Published release [Zenodo DOI Badge](https://github.com/ccbaumler/academic-writing-and-grfp-applications/releases/tag/v1.0.1) in [ccbaumler/academic-writing-and-grfp-applications](https://github.com/ccbaumler/academic-writing-and-grfp-applications)
-4. 🚀 Published release [Initial release!!!](https://github.com/ccbaumler/academic-writing-and-grfp-applications/releases/tag/v1.0.0) in [ccbaumler/academic-writing-and-grfp-applications](https://github.com/ccbaumler/academic-writing-and-grfp-applications)
-5. 🗣 Commented on [#3246](https://github.com/sourmash-bio/sourmash/issues/3246#issuecomment-2301200807) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+1. 🗣 Commented on [#92](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/92#issuecomment-2338766117) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+2. 🗣 Commented on [#92](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/92#issuecomment-2335016249) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+3. 🗣 Commented on [#65](https://github.com/dib-lab/farm-notes/issues/65#issuecomment-2334728120) in [dib-lab/farm-notes](https://github.com/dib-lab/farm-notes)
+4. 🚀 Published release [Zenodo DOI Badge](https://github.com/ccbaumler/academic-writing-and-grfp-applications/releases/tag/v1.0.1) in [ccbaumler/academic-writing-and-grfp-applications](https://github.com/ccbaumler/academic-writing-and-grfp-applications)
+5. 🚀 Published release [Initial release!!!](https://github.com/ccbaumler/academic-writing-and-grfp-applications/releases/tag/v1.0.0) in [ccbaumler/academic-writing-and-grfp-applications](https://github.com/ccbaumler/academic-writing-and-grfp-applications)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
