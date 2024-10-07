@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2362160753) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-2. ❗ Opened issue [#98](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/98) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-3. ❗ Opened issue [#71](https://github.com/dib-lab/farm-notes/issues/71) in [dib-lab/farm-notes](https://github.com/dib-lab/farm-notes)
-4. 🗣 Commented on [#92](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/92#issuecomment-2338766117) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-5. 🗣 Commented on [#92](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/92#issuecomment-2335016249) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+1. 💪 Opened PR [#1](https://github.com/ngs-docs/monty-hall/pull/1) in [ngs-docs/monty-hall](https://github.com/ngs-docs/monty-hall)
+2. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2362160753) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+3. ❗ Opened issue [#98](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/98) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+4. ❗ Opened issue [#71](https://github.com/dib-lab/farm-notes/issues/71) in [dib-lab/farm-notes](https://github.com/dib-lab/farm-notes)
+5. 🗣 Commented on [#92](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/92#issuecomment-2338766117) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
