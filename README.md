@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ngs-docs/monty-hall/issues/2#issuecomment-2399574294) in [ngs-docs/monty-hall](https://github.com/ngs-docs/monty-hall)
-2. ❗ Opened issue [#2](https://github.com/ngs-docs/monty-hall/issues/2) in [ngs-docs/monty-hall](https://github.com/ngs-docs/monty-hall)
-3. 💪 Opened PR [#1](https://github.com/ngs-docs/monty-hall/pull/1) in [ngs-docs/monty-hall](https://github.com/ngs-docs/monty-hall)
-4. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2362160753) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-5. ❗ Opened issue [#98](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/98) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+1. 💪 Opened PR [#1](https://github.com/ngs-docs/2024-gern-dinkum/pull/1) in [ngs-docs/2024-gern-dinkum](https://github.com/ngs-docs/2024-gern-dinkum)
+2. 🗣 Commented on [#2](https://github.com/ngs-docs/monty-hall/issues/2#issuecomment-2399574294) in [ngs-docs/monty-hall](https://github.com/ngs-docs/monty-hall)
+3. ❗ Opened issue [#2](https://github.com/ngs-docs/monty-hall/issues/2) in [ngs-docs/monty-hall](https://github.com/ngs-docs/monty-hall)
+4. 💪 Opened PR [#1](https://github.com/ngs-docs/monty-hall/pull/1) in [ngs-docs/monty-hall](https://github.com/ngs-docs/monty-hall)
+5. 🗣 Commented on [#3183](https://github.com/sourmash-bio/sourmash/issues/3183#issuecomment-2362160753) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
