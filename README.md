@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3370](https://github.com/sourmash-bio/sourmash/issues/3370) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-2. 🗣 Commented on [#3370](https://github.com/sourmash-bio/sourmash/issues/3370#issuecomment-2450358769) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-3. ❗ Opened issue [#3370](https://github.com/sourmash-bio/sourmash/issues/3370) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-4. 💪 Opened PR [#1](https://github.com/ngs-docs/2024-gern-dinkum/pull/1) in [ngs-docs/2024-gern-dinkum](https://github.com/ngs-docs/2024-gern-dinkum)
-5. 🗣 Commented on [#2](https://github.com/ngs-docs/monty-hall/issues/2#issuecomment-2399574294) in [ngs-docs/monty-hall](https://github.com/ngs-docs/monty-hall)
+1. 🗣 Commented on [#3371](https://github.com/sourmash-bio/sourmash/issues/3371#issuecomment-2455436255) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. 🔒 Closed issue [#3370](https://github.com/sourmash-bio/sourmash/issues/3370) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+3. 🗣 Commented on [#3370](https://github.com/sourmash-bio/sourmash/issues/3370#issuecomment-2450358769) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+4. ❗ Opened issue [#3370](https://github.com/sourmash-bio/sourmash/issues/3370) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+5. 💪 Opened PR [#1](https://github.com/ngs-docs/2024-gern-dinkum/pull/1) in [ngs-docs/2024-gern-dinkum](https://github.com/ngs-docs/2024-gern-dinkum)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
