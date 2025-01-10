@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/ucdavisdatalab/install_guides/pull/10) in [ucdavisdatalab/install_guides](https://github.com/ucdavisdatalab/install_guides)
-2. 🗣 Commented on [#571](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/571#issuecomment-2573796922) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-3. 🗣 Commented on [#571](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/571#issuecomment-2573776442) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-4. 🗣 Commented on [#571](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/571#issuecomment-2573765906) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-5. 🗣 Commented on [#571](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/571#issuecomment-2573747753) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+1. 🗣 Commented on [#571](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/571#issuecomment-2581343020) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+2. 🗣 Commented on [#571](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/571#issuecomment-2581327848) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+3. 💪 Opened PR [#10](https://github.com/ucdavisdatalab/install_guides/pull/10) in [ucdavisdatalab/install_guides](https://github.com/ucdavisdatalab/install_guides)
+4. 🗣 Commented on [#571](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/571#issuecomment-2573796922) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+5. 🗣 Commented on [#571](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/571#issuecomment-2573776442) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
