@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/ccbaumler/centralizing-lit/issues/7) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
-2. 🚀 Published release [Update presentation](https://github.com/ccbaumler/centralizing-lit/releases/tag/v1.0.0) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
-3. ❗ Opened issue [#3505](https://github.com/sourmash-bio/sourmash/issues/3505) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-4. 🗣 Commented on [#180](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/180#issuecomment-2590252678) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-5. 🗣 Commented on [#180](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/180#issuecomment-2588037185) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+1. ❗ Opened issue [#3541](https://github.com/sourmash-bio/sourmash/issues/3541) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. ❗ Opened issue [#207](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/207) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+3. ❗ Opened issue [#7](https://github.com/ccbaumler/centralizing-lit/issues/7) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+4. 🚀 Published release [Update presentation](https://github.com/ccbaumler/centralizing-lit/releases/tag/v1.0.0) in [ccbaumler/centralizing-lit](https://github.com/ccbaumler/centralizing-lit)
+5. ❗ Opened issue [#3505](https://github.com/sourmash-bio/sourmash/issues/3505) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
