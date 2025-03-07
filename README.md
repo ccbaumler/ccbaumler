@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.1](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v0.0.1) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
-2. 🗣 Commented on [#207](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/207#issuecomment-2673407967) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-3. 🗣 Commented on [#3541](https://github.com/sourmash-bio/sourmash/issues/3541#issuecomment-2672615150) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-4. ❗ Opened issue [#3541](https://github.com/sourmash-bio/sourmash/issues/3541) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-5. ❗ Opened issue [#207](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/207) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+1. ❗ Opened issue [#18](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/18) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+2. 🚀 Published release [v0.0.1](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v0.0.1) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
+3. 🗣 Commented on [#207](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/207#issuecomment-2673407967) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+4. 🗣 Commented on [#3541](https://github.com/sourmash-bio/sourmash/issues/3541#issuecomment-2672615150) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+5. ❗ Opened issue [#3541](https://github.com/sourmash-bio/sourmash/issues/3541) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
