@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
-2. 🗣 Commented on [#216](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/216#issuecomment-2711537770) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-3. 🗣 Commented on [#455](https://github.com/ncbi/datasets/issues/455#issuecomment-2705466897) in [ncbi/datasets](https://github.com/ncbi/datasets)
-4. ❗ Opened issue [#455](https://github.com/ncbi/datasets/issues/455) in [ncbi/datasets](https://github.com/ncbi/datasets)
-5. ❗ Opened issue [#18](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/18) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+1. 🗣 Commented on [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8#issuecomment-2767199283) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
+2. 🔒 Closed issue [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
+3. ❗ Opened issue [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
+4. 🗣 Commented on [#216](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/216#issuecomment-2711537770) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+5. 🗣 Commented on [#455](https://github.com/ncbi/datasets/issues/455#issuecomment-2705466897) in [ncbi/datasets](https://github.com/ncbi/datasets)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
