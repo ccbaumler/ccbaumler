@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8#issuecomment-2767199283) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
-2. 🔒 Closed issue [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
-3. ❗ Opened issue [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
-4. 🗣 Commented on [#216](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/216#issuecomment-2711537770) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-5. 🗣 Commented on [#455](https://github.com/ncbi/datasets/issues/455#issuecomment-2705466897) in [ncbi/datasets](https://github.com/ncbi/datasets)
+1. ❗ Opened issue [#9](https://github.com/sourmash-bio/sourmash_plugin_template/issues/9) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
+2. 🗣 Commented on [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8#issuecomment-2767199283) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
+3. 🔒 Closed issue [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
+4. ❗ Opened issue [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
+5. 🗣 Commented on [#216](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/216#issuecomment-2711537770) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
