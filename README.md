@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#248](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/248) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-2. 🗣 Commented on [#242](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/242#issuecomment-2813581192) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-3. ❗ Opened issue [#2](https://github.com/sourmash-bio/sourmash_plugin_tables/issues/2) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
-4. ❗ Opened issue [#9](https://github.com/sourmash-bio/sourmash_plugin_template/issues/9) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
-5. 🗣 Commented on [#8](https://github.com/sourmash-bio/sourmash_plugin_template/issues/8#issuecomment-2767199283) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
+1. 🗣 Commented on [#249](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/249#issuecomment-2819184813) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+2. ❗ Opened issue [#248](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/248) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+3. 🗣 Commented on [#242](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/242#issuecomment-2813581192) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+4. ❗ Opened issue [#2](https://github.com/sourmash-bio/sourmash_plugin_tables/issues/2) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
+5. ❗ Opened issue [#9](https://github.com/sourmash-bio/sourmash_plugin_template/issues/9) in [sourmash-bio/sourmash_plugin_template](https://github.com/sourmash-bio/sourmash_plugin_template)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
