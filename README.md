@@ -31,9 +31,9 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#644](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/644) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-2. 🗣 Commented on [#249](https://github.com/sourmash-bio/sourmash_plugin_directsketch/pull/249#issuecomment-2819184813) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-3. ❗ Opened issue [#248](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/248) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+1. 🎉 Merged PR [#2](https://github.com/ccbaumler/CV/pull/2) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
+2. 💪 Opened PR [#2](https://github.com/ccbaumler/CV/pull/2) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
+3. ❗ Opened issue [#644](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/644) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
 4. 🗣 Commented on [#242](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/242#issuecomment-2813581192) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
 5. ❗ Opened issue [#2](https://github.com/sourmash-bio/sourmash_plugin_tables/issues/2) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
 <!--END_SECTION:activity-->
