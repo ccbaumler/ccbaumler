@@ -31,10 +31,10 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ccbaumler/CV/pull/2) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
-2. 💪 Opened PR [#2](https://github.com/ccbaumler/CV/pull/2) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
-3. ❗ Opened issue [#644](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/644) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-4. 🗣 Commented on [#242](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/242#issuecomment-2813581192) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+1. ❗ Opened issue [#22](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/22) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+2. 🎉 Merged PR [#2](https://github.com/ccbaumler/CV/pull/2) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
+3. 💪 Opened PR [#2](https://github.com/ccbaumler/CV/pull/2) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
+4. ❗ Opened issue [#644](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/644) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
 5. ❗ Opened issue [#2](https://github.com/sourmash-bio/sourmash_plugin_tables/issues/2) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
 <!--END_SECTION:activity-->
 
