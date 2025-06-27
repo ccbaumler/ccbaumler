@@ -33,8 +33,8 @@ My latest open-source contributions:
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
 2. 💪 Opened PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
-3. 🗣 Commented on [#22](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/22#issuecomment-2913358833) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-4. 💪 Opened PR [#2](https://github.com/ccbaumler/CV/pull/2) in [ccbaumler/CV](https://github.com/ccbaumler/CV)
+3. 🎉 Merged PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
+4. 💪 Opened PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
 5. ❗ Opened issue [#644](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/644) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
 <!--END_SECTION:activity-->
 
