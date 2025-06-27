@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
-2. 💪 Opened PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
-3. 🎉 Merged PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
-4. 💪 Opened PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
-5. ❗ Opened issue [#644](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/644) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+1. 🔒 Closed issue [#1](https://github.com/ccbaumler/2025-Bio101-topics/issues/1) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
+2. 🎉 Merged PR [#2](https://github.com/ccbaumler/2025-Bio101-topics/pull/2) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
+3. 💪 Opened PR [#2](https://github.com/ccbaumler/2025-Bio101-topics/pull/2) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
+4. ❗ Opened issue [#1](https://github.com/ccbaumler/2025-Bio101-topics/issues/1) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
+5. 🎉 Merged PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
