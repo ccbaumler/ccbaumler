@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/ccbaumler/2025-Bio101-topics/issues/1) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
-2. 🎉 Merged PR [#2](https://github.com/ccbaumler/2025-Bio101-topics/pull/2) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
-3. 💪 Opened PR [#2](https://github.com/ccbaumler/2025-Bio101-topics/pull/2) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
-4. ❗ Opened issue [#1](https://github.com/ccbaumler/2025-Bio101-topics/issues/1) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
-5. 🎉 Merged PR [#2](https://github.com/ccbaumler/skills-introduction-to-github/pull/2) in [ccbaumler/skills-introduction-to-github](https://github.com/ccbaumler/skills-introduction-to-github)
+1. 🎉 Merged PR [#1](https://github.com/ccbaumler/micro/pull/1) in [ccbaumler/micro](https://github.com/ccbaumler/micro)
+2. 💪 Opened PR [#1](https://github.com/ccbaumler/micro/pull/1) in [ccbaumler/micro](https://github.com/ccbaumler/micro)
+3. 🔒 Closed issue [#1](https://github.com/ccbaumler/2025-Bio101-topics/issues/1) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
+4. 🎉 Merged PR [#2](https://github.com/ccbaumler/2025-Bio101-topics/pull/2) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
+5. 💪 Opened PR [#2](https://github.com/ccbaumler/2025-Bio101-topics/pull/2) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
