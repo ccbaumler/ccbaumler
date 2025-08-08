@@ -31,8 +31,8 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ccbaumler/2025-sebastian-paper/pull/1) in [ccbaumler/2025-sebastian-paper](https://github.com/ccbaumler/2025-sebastian-paper)
-2. 💪 Opened PR [#1](https://github.com/gina-v/ldtartrate_25/pull/1) in [gina-v/ldtartrate_25](https://github.com/gina-v/ldtartrate_25)
+1. ❗ Opened issue [#25](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/25) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+2. 🎉 Merged PR [#1](https://github.com/ccbaumler/2025-sebastian-paper/pull/1) in [ccbaumler/2025-sebastian-paper](https://github.com/ccbaumler/2025-sebastian-paper)
 3. 🎉 Merged PR [#1](https://github.com/ccbaumler/micro/pull/1) in [ccbaumler/micro](https://github.com/ccbaumler/micro)
 4. 💪 Opened PR [#1](https://github.com/ccbaumler/micro/pull/1) in [ccbaumler/micro](https://github.com/ccbaumler/micro)
 5. 🔒 Closed issue [#1](https://github.com/ccbaumler/2025-Bio101-topics/issues/1) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
