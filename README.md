@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/25#issuecomment-3168514048) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-2. ❗ Opened issue [#25](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/25) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-3. 🎉 Merged PR [#1](https://github.com/ccbaumler/2025-sebastian-paper/pull/1) in [ccbaumler/2025-sebastian-paper](https://github.com/ccbaumler/2025-sebastian-paper)
-4. 💪 Opened PR [#1](https://github.com/ccbaumler/micro/pull/1) in [ccbaumler/micro](https://github.com/ccbaumler/micro)
-5. 🔒 Closed issue [#1](https://github.com/ccbaumler/2025-Bio101-topics/issues/1) in [ccbaumler/2025-Bio101-topics](https://github.com/ccbaumler/2025-Bio101-topics)
+1. 💪 Opened PR [#27](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/27) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+2. 💪 Opened PR [#26](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/26) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+3. 🗣 Commented on [#25](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/25#issuecomment-3168514048) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+4. ❗ Opened issue [#25](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/25) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+5. 🎉 Merged PR [#1](https://github.com/ccbaumler/2025-sebastian-paper/pull/1) in [ccbaumler/2025-sebastian-paper](https://github.com/ccbaumler/2025-sebastian-paper)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
