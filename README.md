@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3782](https://github.com/sourmash-bio/sourmash/issues/3782) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-2. 💪 Opened PR [#27](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/27) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-3. 💪 Opened PR [#26](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/26) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-4. 🗣 Commented on [#25](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/25#issuecomment-3168514048) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-5. ❗ Opened issue [#25](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/25) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+1. 💪 Opened PR [#1](https://github.com/ccbaumler/2025-sourmash-pangenome-scripts/pull/1) in [ccbaumler/2025-sourmash-pangenome-scripts](https://github.com/ccbaumler/2025-sourmash-pangenome-scripts)
+2. ❗ Opened issue [#3782](https://github.com/sourmash-bio/sourmash/issues/3782) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+3. 💪 Opened PR [#27](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/27) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+4. 💪 Opened PR [#26](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/26) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+5. 🗣 Commented on [#25](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/25#issuecomment-3168514048) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
