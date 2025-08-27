@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/29) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-2. 🗣 Commented on [#28](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/28#issuecomment-3221400637) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-3. 🗣 Commented on [#28](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/28#issuecomment-3221212348) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-4. ❗ Opened issue [#28](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/28) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-5. 💪 Opened PR [#1](https://github.com/ccbaumler/2025-sourmash-pangenome-scripts/pull/1) in [ccbaumler/2025-sourmash-pangenome-scripts](https://github.com/ccbaumler/2025-sourmash-pangenome-scripts)
+1. 🔒 Closed issue [#28](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/28) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+2. 🎉 Merged PR [#29](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/29) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+3. 🎉 Merged PR [#30](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/30) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+4. 💪 Opened PR [#29](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/29) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+5. 🗣 Commented on [#28](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/28#issuecomment-3221400637) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
