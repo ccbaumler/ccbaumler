@@ -32,10 +32,10 @@ My latest open-source contributions:
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v0.3.2](https://github.com/dib-lab/sourmash_plugin_pangenomics/releases/tag/v0.3.2) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-2. 💪 Opened PR [#31](undefined) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+2. 💪 Opened PR [#31](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/31) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
 3. 🔒 Closed issue [#28](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/28) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-4. 💪 Opened PR [#29](undefined) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-5. 🗣 Commented on [#28](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/28#issuecomment-3221400637) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+4. 🎉 Merged PR [#29](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/29) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+5. 🎉 Merged PR [#30](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/30) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
