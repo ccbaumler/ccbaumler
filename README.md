@@ -14,7 +14,7 @@ Tools used:
 
 <p align="center">
 Focused on bioinformatically deriving biomedical-relevant answers from public data in the population health field. 
-I find some purpose in helping and mentoring others. Broadly, I aim to eloquently teaching topics that are esoteric and under-taught.
+I find some purpose in helping and mentoring others. Broadly, I aim to eloquently teach topics that are esoteric and under-taught.
 </p>
 
 ---
