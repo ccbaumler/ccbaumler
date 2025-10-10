@@ -31,7 +31,7 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.2](https://github.com/dib-lab/sourmash_plugin_pangenomics/releases/tag/v0.3.2) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+1. ❗ Opened issue [#1](https://github.com/d-pug/2025_command_line/issues/1) in [d-pug/2025_command_line](https://github.com/d-pug/2025_command_line)
 2. 💪 Opened PR [#31](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/31) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
 3. 🔒 Closed issue [#28](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/28) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
 4. 🎉 Merged PR [#29](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/29) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
