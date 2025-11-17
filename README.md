@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3850](https://github.com/sourmash-bio/sourmash/issues/3850) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-2. 💪 Opened PR [#14](undefined) in [KoslickiLab/fmh-funprofiler](https://github.com/KoslickiLab/fmh-funprofiler)
-3. 🗣 Commented on [#3839](https://github.com/sourmash-bio/sourmash/pull/3839#issuecomment-3439794180) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-4. 🗣 Commented on [#3837](https://github.com/sourmash-bio/sourmash/pull/3837#issuecomment-3439763352) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-5. 💪 Opened PR [#8](undefined) in [sourmash-bio/sourmash_utils](https://github.com/sourmash-bio/sourmash_utils)
+1. 🗣 Commented on [#3850](https://github.com/sourmash-bio/sourmash/issues/3850#issuecomment-3543240327) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+2. ❗ Opened issue [#3850](https://github.com/sourmash-bio/sourmash/issues/3850) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+3. 💪 Opened PR [#14](undefined) in [KoslickiLab/fmh-funprofiler](https://github.com/KoslickiLab/fmh-funprofiler)
+4. 🗣 Commented on [#3839](https://github.com/sourmash-bio/sourmash/pull/3839#issuecomment-3439794180) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+5. 🗣 Commented on [#3837](https://github.com/sourmash-bio/sourmash/pull/3837#issuecomment-3439763352) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
