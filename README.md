@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v1.0.0) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
-2. ❗ Opened issue [#722](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/722) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-3. ❗ Opened issue [#1](https://github.com/ccbaumler/dissertation/issues/1) in [ccbaumler/dissertation](https://github.com/ccbaumler/dissertation)
-4. 🗣 Commented on [#3850](https://github.com/sourmash-bio/sourmash/issues/3850#issuecomment-3543240327) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
-5. ❗ Opened issue [#3850](https://github.com/sourmash-bio/sourmash/issues/3850) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
+1. 🔒 Closed issue [#722](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/722) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+2. 🚀 Published release [v1.0.0](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v1.0.0) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
+3. ❗ Opened issue [#722](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/722) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+4. ❗ Opened issue [#1](https://github.com/ccbaumler/dissertation/issues/1) in [ccbaumler/dissertation](https://github.com/ccbaumler/dissertation)
+5. 🗣 Commented on [#3850](https://github.com/sourmash-bio/sourmash/issues/3850#issuecomment-3543240327) in [sourmash-bio/sourmash](https://github.com/sourmash-bio/sourmash)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
