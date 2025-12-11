@@ -31,11 +31,11 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 My latest open-source contributions:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#723](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/723) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-2. 🔒 Closed issue [#722](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/722) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-3. 🚀 Published release [v1.0.0](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v1.0.0) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
-4. ❗ Opened issue [#722](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/722) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-5. ❗ Opened issue [#1](https://github.com/ccbaumler/dissertation/issues/1) in [ccbaumler/dissertation](https://github.com/ccbaumler/dissertation)
+1. 🗣 Commented on [#58](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/58#issuecomment-3643000005) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
+2. ❗ Opened issue [#723](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/723) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+3. 🔒 Closed issue [#722](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/722) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+4. 🚀 Published release [v1.0.0](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v1.0.0) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
+5. ❗ Opened issue [#722](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/722) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
 <!--END_SECTION:activity-->
 
 <a href="https://github.com/ccbaumler">
