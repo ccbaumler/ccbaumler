@@ -38,6 +38,4 @@ My latest open-source contributions:
 5. 🚀 Published release [v1.0.0](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v1.0.0) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
 <!--END_SECTION:activity-->
 
-<a href="https://github.com/ccbaumler">
-  <img alt="Colton's dynamically generated GitHub stats" src="https://profile-summary-for-github.com/user/ccbaumler"/>
-</a>
+[![GitHub Profile](https://profile-summary-for-github.com/user/ccbaumler)](https://github.com/ccbaumler)
