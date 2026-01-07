@@ -43,4 +43,4 @@ My latest open-source contributions:
 |-----|------|
 
  
-Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github) <!-- Specifically this issue! https://github.com/tipsy/profile-summary-for-github/issues/126#issuecomment-1531826708 -->
