@@ -28,7 +28,9 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 
 <h3 align="center">Github Statistics</h3>
 
+<p align="center">
 My latest open-source contributions:
+</p>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#520](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/520#issuecomment-3643418367) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
@@ -38,9 +40,28 @@ My latest open-source contributions:
 5. 🚀 Published release [v1.0.0](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v1.0.0) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
 <!--END_SECTION:activity-->
 
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ccbaumler&theme=dracula)
-|![GitHub Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ccbaumler&theme=dracula)|![GitHub Profile Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ccbaumler&theme=dracula)|
-|-----|------|
+<br>
+<br>
 
- 
-Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github) <!-- Specifically this issue! https://github.com/tipsy/profile-summary-for-github/issues/126#issuecomment-1531826708 -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ccbaumler&theme=dracula" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ccbaumler&theme=dracula" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ccbaumler&theme=dracula" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  Above stats generated with:
+  <a href="https://github.com/tipsy/profile-summary-for-github">
+    <code>tipsy/profile-summary-for-github</code>
+  </a>
+</p>
+
