@@ -38,4 +38,8 @@ My latest open-source contributions:
 5. 🚀 Published release [v1.0.0](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v1.0.0) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
 <!--END_SECTION:activity-->
 
-[![GitHub Summary](https://profile-summary-for-github.com/user/ccbaumler)]
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ccbaumler&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ccbaumler&theme=dracula)|
+|-----|------|
+
+ 
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
