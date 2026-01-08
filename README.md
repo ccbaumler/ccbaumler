@@ -33,11 +33,11 @@ My latest open-source contributions:
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3725667867) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
-2. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3725570438) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
-3. 🗣 Commented on [#520](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/520#issuecomment-3643418367) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
-4. 🗣 Commented on [#58](https://github.com/sourmash-bio/sourmash_plugin_directsketch/issues/58#issuecomment-3643000005) in [sourmash-bio/sourmash_plugin_directsketch](https://github.com/sourmash-bio/sourmash_plugin_directsketch)
-5. 🚀 Published release [v1.0.0](https://github.com/sourmash-bio/sourmash_plugin_tables/releases/tag/v1.0.0) in [sourmash-bio/sourmash_plugin_tables](https://github.com/sourmash-bio/sourmash_plugin_tables)
+1. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3725807930) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
+2. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3725743231) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
+3. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3725721677) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
+4. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3725667867) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
+5. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3725570438) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
 <!--END_SECTION:activity-->
 
 <br>
