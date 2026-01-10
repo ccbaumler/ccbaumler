@@ -8,6 +8,7 @@ Tools used:
 1. https://github.com/anuraghazra/github-readme-stats
 2. https://github.com/jamesgeorge007/github-activity-readme
 3. https://github.com/topics/profile-readme
+4. https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial#create-a-workflow
 -->
 
 <h3 align="center">About</h3>
@@ -26,7 +27,7 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 
 ---
 
-<h3 align="center">Github Statistics</h3>
+<h3 align="center">Recent GitHub Activity</h3>
 
 <p align="center">
 My latest open-source contributions:
@@ -40,23 +41,23 @@ My latest open-source contributions:
 5. 🗣 Commented on [#2](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/2#issuecomment-3730948420) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
 <!--END_SECTION:activity-->
 
-<br>
-<br>
+---
+
+<h3 align="center">GitHub Statistics</h3>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ccbaumler&theme=dracula" />
+  <img src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/main/profile-summary-card-output/material_palenight/0-profile-details.svg" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ccbaumler&theme=dracula" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ccbaumler&theme=dracula" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/main/profile-summary-card-output/material_palenight/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/main/profile-summary-card-output/material_palenight/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/main/profile-summary-card-output/material_palenight/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/main/profile-summary-card-output/material_palenight/4-productive-time.svg" />
+</p>
 
 <p align="center">
   Above stats generated with:
