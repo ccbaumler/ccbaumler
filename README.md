@@ -11,6 +11,38 @@ Tools used:
 4. https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial#create-a-workflow
 -->
 
+<div align="center">
+  <a href="https://www.jcs-profile.com/" target="_blank">
+    <img alt="Profile" src="https://www.jcs-profile.com/images/icons/profile.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="https://gitlab.com/jcs090218" target="_blank">
+    <img alt="GitHub" src="https://www.jcs-profile.com/images/icons/gitlab.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="https://twitter.com/jenchieh94" target="_blank">
+    <img alt="Twitter" src="https://www.jcs-profile.com/images/icons/twitter.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/jen-chieh-shen-17a02780/" target="_blank">
+    <img alt="LinkedIn" src="https://www.jcs-profile.com/images/icons/linkedin.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:jcs090218@gmail.com" target="_blank">
+    <img alt="Mail" src="https://www.jcs-profile.com/images/icons/gmail.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="https://www.jcs-profile.com/blog/" target="_blank">
+    <img alt="Blog" src="https://www.jcs-profile.com/images/icons/blog.svg" width="5%"/></a>
+</div>
+
+Welcome!
+
+<div align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9100D4&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=155&lines=Biology+BS%2C+Chemistry+BA%2C+Math+minor%2C+honors+in+academics+and+research;Biochemistry%2C+Molecular%2C+Cellular%2C+and+Developmental+Graduate+Candidate;Data+Intensive+Biology+lab+at+University+of+California%2C+Davis;Bioinformaticist;Instructor" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <sub>(Above was generated with <a href="https://github.com/denvercoder1/readme-typing-svg"><code>denvercoder1/readme-typing-svg</code></a>)</sub>
+</p>
+
 <h3 align="center">About</h3>
 
 <p align="center">
@@ -60,9 +92,10 @@ My latest open-source contributions:
 </p>
 
 <p align="center">
-  Above stats generated with:
+  <sub>
+  (Above stats generated with:
   <a href="https://github.com/tipsy/profile-summary-for-github">
     <code>tipsy/profile-summary-for-github</code>
-  </a>
+  </a>)
+  </sub>
 </p>
-
