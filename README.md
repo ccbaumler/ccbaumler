@@ -11,27 +11,27 @@ Tools used:
 4. https://github.com/vn7n24fzkq/github-profile-summary-cards/wiki/Tutorial#create-a-workflow
 -->
 
-<div align="center">
-  <a href="https://www.jcs-profile.com/" target="_blank">
-    <img alt="Profile" src="https://www.jcs-profile.com/images/icons/profile.svg" width="5%"/></a>
-  &nbsp;•&nbsp;
-  <a href="https://gitlab.com/jcs090218" target="_blank">
-    <img alt="GitHub" src="https://www.jcs-profile.com/images/icons/gitlab.svg" width="5%"/></a>
-  &nbsp;•&nbsp;
-  <a href="https://twitter.com/jenchieh94" target="_blank">
-    <img alt="Twitter" src="https://www.jcs-profile.com/images/icons/twitter.svg" width="5%"/></a>
-  &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/jen-chieh-shen-17a02780/" target="_blank">
-    <img alt="LinkedIn" src="https://www.jcs-profile.com/images/icons/linkedin.svg" width="5%"/></a>
-  &nbsp;•&nbsp;
-  <a href="mailto:jcs090218@gmail.com" target="_blank">
-    <img alt="Mail" src="https://www.jcs-profile.com/images/icons/gmail.svg" width="5%"/></a>
-  &nbsp;•&nbsp;
-  <a href="https://www.jcs-profile.com/blog/" target="_blank">
-    <img alt="Blog" src="https://www.jcs-profile.com/images/icons/blog.svg" width="5%"/></a>
-</div>
+# Welcome!
 
-Welcome!
+<div align="center">
+  <a href="https://ccbaumler.github.io/" target="_blank">
+    <img alt="Profile" src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/refs/heads/main/icons/blog-seo-optimization-search-svgrepo-com.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="https://orcid.org/0000-0002-5926-7792" target="_blank">
+    <img alt="GitHub" src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/refs/heads/main/icons/ORCID-iD_icon_vector.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="https://bsky.app/profile/ccbaumler.bsky.social" target="_blank">
+    <img alt="Twitter" src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/refs/heads/main/icons/bluesky.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="www.linkedin.com/in/colton-baumler" target="_blank">
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/refs/heads/main/icons/linkedin.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:ccbaumler@gmail.com" target="_blank">
+    <img alt="Mail" src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/refs/heads/main/icons/gmail.svg" width="5%"/></a>
+  &nbsp;•&nbsp;
+  <a href="mailto:ccbaumler@ucdavis.edu" target="_blank">
+    <img alt="Blog" src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/refs/heads/main/icons/microsoft-outlook.svg" width="5%"/></a>
+</div>
 
 <div align="center">
   <a href="#">
@@ -54,8 +54,9 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 
 <h3 align="center">Current projects</h3>
 
-1. Discovery and re-discovery of genomic and metabolomic biomarkers in case verse control studies.
-2. Teaching inclusive, equitable, and sustainable practices in scholarly knowledge management
+1. Developing software for low resource peta-byte scale pangenomic analysis.
+2. Discovery and re-discovery of genomic and metabolomic biomarkers in case verse control studies.
+3. Teaching inclusive, equitable, and sustainable practices in scholarly knowledge management.
 
 ---
 
