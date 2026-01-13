@@ -57,13 +57,14 @@ I find some purpose in helping and mentoring others. Broadly, I aim to eloquentl
 1. Developing software for low resource peta-byte scale pangenomic analysis.
 2. Discovery and re-discovery of genomic and metabolomic biomarkers in case verse control studies.
 3. Teaching inclusive, equitable, and sustainable practices in scholarly knowledge management.
-<details>
-  <summary>Example instructional workflow</summary>
-    <div align="center">
-      <a href="https://ccbaumler.github.io/" target="_blank">
-        <img alt="Profile" src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/refs/heads/main/images/workshop-workflow.svg" width="105%"/></a>
-    </div>
-</details>
+    <details>
+      <summary>Example instructional workflow</summary>
+      <br>
+        <div align="center">
+          <a href="" target="_blank">
+            <img alt="Profile" src="https://raw.githubusercontent.com/ccbaumler/ccbaumler/refs/heads/main/images/workshop-workflow.svg?v=2" width="95%"/></a>
+        </div>
+    </details>
 
 ---
 
