@@ -34,9 +34,7 @@ Tools used:
 </div>
 
 <div align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9100D4&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=155&lines=Biology+BS%2C+Chemistry+BA%2C+Math+minor%2C+honors+in+academics+and+research;Biochemistry%2C+Molecular%2C+Cellular%2C+and+Developmental+Graduate+Candidate;Data+Intensive+Biology+lab+at+University+of+California%2C+Davis;Bioinformaticist;Instructor" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9100D4&center=true&vCenter=true&multiline=true&repeat=false&width=850&height=155&lines=Biology+BS%2C+Chemistry+BA%2C+Math+minor%2C+honors+in+academics+and+research;Biochemistry%2C+Molecular%2C+Cellular%2C+and+Developmental+Graduate+Candidate;Data+Intensive+Biology+lab+at+University+of+California%2C+Davis;Bioinformaticist;Instructor" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
