@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ccbaumler/ccbaumler/main/profile-summary-card-output/flag_india/4-productive-time.svg)
-```
-
-    
