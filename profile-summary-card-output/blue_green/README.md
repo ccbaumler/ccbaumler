@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/ccbaumler/ccbaumler/main/profile-summary-card-output/blue_green/4-productive-time.svg)
+```
+
+    
