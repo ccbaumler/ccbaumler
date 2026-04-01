@@ -73,7 +73,7 @@ My latest open-source contributions:
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#738](https://github.com/sourmash-bio/sourmash_plugin_branchwater/issues/738) in [sourmash-bio/sourmash_plugin_branchwater](https://github.com/sourmash-bio/sourmash_plugin_branchwater)
+1. ❗ Opened issue [#38](https://github.com/ccbaumler/2026_sts195/issues/38) in [ccbaumler/2026_sts195](https://github.com/ccbaumler/2026_sts195)
 2. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3747158495) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
 3. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3747152260) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
 4. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3746445916) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
