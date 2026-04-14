@@ -73,9 +73,9 @@ My latest open-source contributions:
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/datalab-dev/2026_startup_goats/issues/1#issuecomment-4202700077) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
-2. ❗ Opened issue [#38](https://github.com/ccbaumler/2026_sts195/issues/38) in [ccbaumler/2026_sts195](https://github.com/ccbaumler/2026_sts195)
-3. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3747152260) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
+1. 🗣 Commented on [#7](https://github.com/datalab-dev/2026_startup_goats/pull/7#issuecomment-4246181955) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+2. 🗣 Commented on [#6](https://github.com/datalab-dev/2026_startup_goats/pull/6#issuecomment-4246156162) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+3. 🗣 Commented on [#1](https://github.com/datalab-dev/2026_startup_goats/issues/1#issuecomment-4202700077) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
 4. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3746445916) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
 5. 🗣 Commented on [#1](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME/issues/1#issuecomment-3746442129) in [ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME](https://github.com/ccbaumler/YOUR_OWNER_NAME_HERE_AS_REPO_NAME)
 <!--END_SECTION:activity-->
