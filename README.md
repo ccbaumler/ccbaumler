@@ -73,11 +73,11 @@ My latest open-source contributions:
 </p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1](https://github.com/ccbaumler/2026_summer_eeg_program/issues/1) in [ccbaumler/2026_summer_eeg_program](https://github.com/ccbaumler/2026_summer_eeg_program)
-2. ❗ Opened issue [#1](https://github.com/ccbaumler/2026_summer_eeg_program/issues/1) in [ccbaumler/2026_summer_eeg_program](https://github.com/ccbaumler/2026_summer_eeg_program)
-3. 🗣 Commented on [#8](https://github.com/datalab-dev/2026_startup_goats/issues/8#issuecomment-4247898197) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
-4. 🗣 Commented on [#7](https://github.com/datalab-dev/2026_startup_goats/pull/7#issuecomment-4246181955) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
-5. 🗣 Commented on [#6](https://github.com/datalab-dev/2026_startup_goats/pull/6#issuecomment-4246156162) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+1. 🗣 Commented on [#8](https://github.com/datalab-dev/2026_startup_goats/issues/8#issuecomment-4271929622) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+2. ℹ️ Labeled issue [#1](https://github.com/ccbaumler/2026_summer_eeg_program/issues/1) in [ccbaumler/2026_summer_eeg_program](https://github.com/ccbaumler/2026_summer_eeg_program)
+3. ❗ Opened issue [#1](https://github.com/ccbaumler/2026_summer_eeg_program/issues/1) in [ccbaumler/2026_summer_eeg_program](https://github.com/ccbaumler/2026_summer_eeg_program)
+4. 🗣 Commented on [#8](https://github.com/datalab-dev/2026_startup_goats/issues/8#issuecomment-4247898197) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+5. 🗣 Commented on [#7](https://github.com/datalab-dev/2026_startup_goats/pull/7#issuecomment-4246181955) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
 <!--END_SECTION:activity-->
 
 ---
