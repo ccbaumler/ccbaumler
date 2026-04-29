@@ -73,11 +73,11 @@ My latest open-source contributions:
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/ccbaumler/mcb120l_excel_grader/issues/1) in [ccbaumler/mcb120l_excel_grader](https://github.com/ccbaumler/mcb120l_excel_grader)
-2. 🗣 Commented on [#20](https://github.com/datalab-dev/2026_startup_goats/issues/20#issuecomment-4308043552) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
-3. 🗣 Commented on [#19](https://github.com/datalab-dev/2026_startup_goats/issues/19#issuecomment-4308001323) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
-4. 🗣 Commented on [#18](https://github.com/datalab-dev/2026_startup_goats/pull/18#issuecomment-4307901794) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
-5. 🗣 Commented on [#17](https://github.com/datalab-dev/2026_startup_goats/pull/17#issuecomment-4291312269) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+1. ❗ Opened issue [#29](https://github.com/datalab-dev/2026_startup_goats/issues/29) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+2. ❗ Opened issue [#28](https://github.com/datalab-dev/2026_startup_goats/issues/28) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+3. ℹ️ Labeled issue [#27](https://github.com/datalab-dev/2026_startup_goats/issues/27) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+4. ❗ Opened issue [#27](https://github.com/datalab-dev/2026_startup_goats/issues/27) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+5. ❗ Opened issue [#1](https://github.com/ccbaumler/mcb120l_excel_grader/issues/1) in [ccbaumler/mcb120l_excel_grader](https://github.com/ccbaumler/mcb120l_excel_grader)
 <!--END_SECTION:activity-->
 
 ---
