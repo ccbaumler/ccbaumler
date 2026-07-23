@@ -73,8 +73,8 @@ My latest open-source contributions:
 </p>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#34](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/34) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-2. 🗣 Commented on [#2](https://github.com/ccbaumler/mcb120l_excel_grader/pull/2#issuecomment-4714655237) in [ccbaumler/mcb120l_excel_grader](https://github.com/ccbaumler/mcb120l_excel_grader)
+1. ❗ Opened issue [#35](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/35) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+2. ❗ Opened issue [#34](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/34) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
 3. 🗣 Commented on [#65](https://github.com/datalab-dev/2026_startup_goats/pull/65#issuecomment-4660916120) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
 4. 🗣 Commented on [#63](https://github.com/datalab-dev/2026_startup_goats/pull/63#issuecomment-4617015781) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
 5. 🗣 Commented on [#63](https://github.com/datalab-dev/2026_startup_goats/pull/63#issuecomment-4609339111) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
