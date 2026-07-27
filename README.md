@@ -73,10 +73,10 @@ My latest open-source contributions:
 </p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ccbaumler/random_script/pull/1) in [ccbaumler/random_script](https://github.com/ccbaumler/random_script)
-2. ❗ Opened issue [#35](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/35) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-3. ❗ Opened issue [#34](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/34) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-4. 🗣 Commented on [#63](https://github.com/datalab-dev/2026_startup_goats/pull/63#issuecomment-4617015781) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
+1. 💪 Opened PR [#36](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/36) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+2. 💪 Opened PR [#1](https://github.com/ccbaumler/random_script/pull/1) in [ccbaumler/random_script](https://github.com/ccbaumler/random_script)
+3. ❗ Opened issue [#35](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/35) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+4. ❗ Opened issue [#34](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/34) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
 5. 🗣 Commented on [#63](https://github.com/datalab-dev/2026_startup_goats/pull/63#issuecomment-4609339111) in [datalab-dev/2026_startup_goats](https://github.com/datalab-dev/2026_startup_goats)
 <!--END_SECTION:activity-->
 
