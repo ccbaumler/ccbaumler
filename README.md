@@ -73,11 +73,11 @@ My latest open-source contributions:
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/34#issuecomment-5169801184) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-2. 🗣 Commented on [#34](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/34#issuecomment-5169794245) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-3. 🗣 Commented on [#37](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/37#issuecomment-5150516537) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-4. 💪 Opened PR [#37](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/37) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
-5. 🚀 Published release [v0.4.0](https://github.com/dib-lab/sourmash_plugin_pangenomics/releases/tag/v0.4.0) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+1. 🗣 Commented on [#38](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/38#issuecomment-5296871191) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+2. 🗣 Commented on [#34](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/34#issuecomment-5169801184) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+3. 🗣 Commented on [#34](https://github.com/dib-lab/sourmash_plugin_pangenomics/issues/34#issuecomment-5169794245) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+4. 🗣 Commented on [#37](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/37#issuecomment-5150516537) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
+5. 💪 Opened PR [#37](https://github.com/dib-lab/sourmash_plugin_pangenomics/pull/37) in [dib-lab/sourmash_plugin_pangenomics](https://github.com/dib-lab/sourmash_plugin_pangenomics)
 <!--END_SECTION:activity-->
 
 ---
